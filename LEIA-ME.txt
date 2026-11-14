@@ -1,0 +1,10 @@
+LORANA ALENCAR - versão 2 (protótipo gratuito)
+
+index.html: página pública para clientes solicitarem horários por mensagem compartilhada.
+admin.html: painel da Lorana, sem autenticação; NÃO compartilhe esse endereço publicamente como painel seguro.
+
+Para publicar: hospede todos os arquivos juntos em um serviço estático (ex.: GitHub Pages). A página pública não mostra disponibilidade real, não grava pedidos em nuvem e não envia mensagens automaticamente. Os dados do painel ficam no armazenamento local do navegador, sem sincronização; exporte backups JSON.
+
+Regras: segunda a sábado, 08h–18h; cílios 180 minutos, sobrancelhas 30 minutos; preços informados pela Lorana. Remoção externa: preço a consultar e duração provisória de 30 minutos. Não há sinal. Lembrete manual no WhatsApp um dia antes.
+
+ATENÇÃO: nomes e valores de clientes são dados pessoais. Para uso real com dados sensíveis e links públicos, implementar autenticação, banco de dados com controle de acesso e consentimento adequado.
